@@ -72,5 +72,5 @@ This project predicts housing prices using a machine learning model trained on a
 - Deploy the model using a web interface or API.
 
 ## License
-[Specify the license, e.g., MIT License]
+MIT License
 
