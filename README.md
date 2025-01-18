@@ -31,9 +31,9 @@ This project predicts housing prices using a machine learning model trained on a
   - `seaborn`
 
 ## Dataset
-- **Source:** [Provide dataset source, e.g., Kaggle or UCI ML Repository]
+- **Source:** https://raw.githubusercontent.com/ageron/handson-ml2/master/
 - **Description:** The dataset contains features such as number of rooms, location, square footage, and property age.
-- **Size:** [Number of rows and columns in the dataset]
+- **Size:** 16512 rows and 9 columns
 - **Preprocessing:** Details of cleaning, encoding, and scaling steps applied to the data.
 
 ## Setup and Installation
